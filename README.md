@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/02bcd8a3-832f-488e-b8af-73900e3e1ff2">
-<h1 align="center">pup 🥷</h1>
+<h1 align="center">pop 🥷</h1>
 <hr>
 <h2>My Skills :</h2>
 <img width="10%" align="right" src="https://i.gifer.com/origin/a4/a4865c0ad12d2967b75b39ca21f800a0_w200.gif">
